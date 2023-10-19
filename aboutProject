@@ -8,3 +8,7 @@ Step4: Flow :)
     ->get path of that file,
     ->
     ->Code createProduct (controller) & store the path of image(file) from above.
+
+Step 5: Cloudinary Setup: (to upload & save images online)
+    ->npm i --save Cloudinary
+Make a account on cloudinary web: get 25points (1GB each) for a month.
