@@ -1,0 +1,10 @@
+Step1 : basic installation (starter code)
+
+step2: basic setup in files : controllers, models, routes,middlewares(err-handler)
+step3: need to install ('express-fileupload') package: to get image(file)
+
+Step4: Flow :)
+    -> code uploadfile (controller) & put that file in /public/uploads folder for now.
+    ->get path of that file,
+    ->
+    ->Code createProduct (controller) & store the path of image(file) from above.
