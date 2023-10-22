@@ -6,3 +6,8 @@ Step2 : Transport service for email (Ethereal or MailTrap)
     ->ethereal.email  (create a new acc.)
 
 OR use sendGrind acc.
+Step 1: create a single sender (by logging on web of sendGrid)
+Step 2 : Email API  (create an API key) 
+    ->Copy sendGrid api key to .env file
+
+Step 3: Install package : npm install --save @sendgrid/mail
